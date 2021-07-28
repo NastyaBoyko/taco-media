@@ -1,0 +1,37 @@
+@font-face {
+    font-family: raleway;
+    src: url(../fonts/raleway/ralewaylight.ttf);
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: raleway; 
+    src: url(../fonts/raleway/ralewayregular.ttf);
+	font-weight: 400;
+	font-style: normal;
+}
+@font-face {
+    font-family: raleway; 
+    src: url(../fonts/raleway/ralewaysemibold.ttf);
+	font-weight: 600;
+	font-style: normal;
+}
+@font-face {
+    font-family: raleway; 
+    src: url(../fonts/raleway/ralewaybold.ttf);
+	font-weight: 700;
+	font-style: normal;
+}
+@font-face {
+    font-family: raleway; 
+    src: url(../fonts/raleway/ralewayblack.ttf);
+	font-weight: 800;
+	font-style: normal;
+}
+/*@font-face {
+    font-family: scheherazade;
+    src: url(../fonts/Scheherazade/Scheherazade-Bold.ttf);
+	font-weight: 600;
+	font-style: normal;
+}
+*/
